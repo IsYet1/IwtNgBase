@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-iwt',
+  selector: 'iwt',
   templateUrl: './iwt.component.html',
   styleUrls: ['./iwt.component.css']
 })
