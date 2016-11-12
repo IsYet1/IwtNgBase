@@ -5,9 +5,11 @@ import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
 
+import { IwtComponent } from './iwt/iwt.component';
+
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent, IwtComponent
   ],
   imports: [
     BrowserModule,
